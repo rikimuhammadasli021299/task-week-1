@@ -1,0 +1,9 @@
+1. Mulai.
+2. Input kalimat.
+3. Cek apakah kalimat bertipe string.
+4. Jika tidak, inputkan kembali kalimat dengan tipe string.
+5. Jika ya, bagi kalimat menjadi per-kata menggunakan method split sehingga mengembalikan array baru dan tampung ke dalam varibel baru.
+6. Balikan urutan array dengan menggunakan method reverse.
+7. Gabungkan semua elemen array dengan method join sehingga mengembalikan nilai string.
+8. Tampilkan kalimat yang sudah dibalik.
+9. Selesai.

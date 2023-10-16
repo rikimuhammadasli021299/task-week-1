@@ -1,0 +1,11 @@
+1. Mulai.
+2. Input kata.
+3. Cek apakah kata bertipe string.
+4. Jika tidak, inputkan kembali kata dengan tipe string.
+5. Jika ya, bagi kata menjadi per-huruf menggunakan method split sehingga mengembalikan array baru dan tampung ke dalam varibel baru.
+6. Balikan urutan array dengan menggunakan method reverse.
+7. Gabungkan semua elemen array dengan method join sehingga mengembalikan nilai string.
+8. Cek apakah kata pertama yang diinputkan sama dengan kata yang sudah dibalikkan urutannya.
+9. Jika ya, tampilkan palindrom.
+10. Jika tidak, tampilkan bukan palindrom.
+11. Selesai.
